@@ -69,9 +69,9 @@ No exemption under this section shall be available for the Open Network Tokens o
   #### **(4)** Network Maturity. 
   An Open Network has achieved Network Maturity when:
 
-  **(a)** less than 10% of Open Network Tokens are directly or indirectly owned beneficially by the Initial Network Team, individually or in the aggregate;
+  **(a)** less than 10% of Open Network Tokens are directly or indirectly owned beneficially by the Initial Development Team, individually or in the aggregate;
 
-  **(b)** less than 10% of the means of determining consensus in accordance with the consensus rules on the Open Network are directly or indirectly owned beneficially by the Initial Network Team, individually or in the aggregate; and
+  **(b)** less than 10% of the means of determining consensus in accordance with the consensus rules on the Open Network are directly or indirectly owned beneficially by the Initial Development Team, individually or in the aggregate; and
 
   **(c)** the development covenants undertaken by the Initial Development Team as disclosed in the Disclosure Statement have been performed in all material respects (except to the extent such performance has been waived or modified pursuant to the governance process disclosed in the Disclosure Statement).
 
