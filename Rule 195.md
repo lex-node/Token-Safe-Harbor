@@ -1,9 +1,10 @@
-Proposed Securities Act Rule 195 --Network Maturity Safe Harbor.
+# Proposed Securities Act Rule 195 --Network Maturity Safe Harbor.
 ---------------------------------------------------------------
 
-**(a) Exemption.** Any Open Network Token constituting or representing a security shall be deemed to no longer be a security within the meaning of Section 2(a)(1) of the Act if it satisfies the conditions in paragraph (b) of this section.
+### **(a) Exemption.** 
+Any Open Network Token constituting or representing a security shall be deemed to no longer be a security within the meaning of Section 2(a)(1) of the Act if it satisfies the conditions in paragraph (b) of this section.
 
-**(b) Conditions to be met.**
+### **(b) Conditions to be met.**
 
   **(1)** the Open Network has reached the point of Network Maturity as defined in paragraph (f) of this section;
 
@@ -15,7 +16,8 @@ Proposed Securities Act Rule 195 --Network Maturity Safe Harbor.
 
   **(5)** the Initial Development Team has not committed any uncured or continuing material violation of securities laws in connection with the Open Network Token.
 
-**(c) Disclosure.** The Initial Development Team must provide the information described below on a freely accessible public website and file it with the Commission in electronic format by means of the Commission's Electronic Data Gathering, Analysis, and Retrieval  System (EDGAR) in accordance with EDGAR rules set forth in Regulation  S-T. Subsequent to the date of filing, any material changes to the information described below must be provided on the same freely accessible public website and filed with the Commission as soon as  practicable and in any event within 4 business days after the date of the change:
+### **(c) Disclosure.** 
+The Initial Development Team must provide the information described below on a freely accessible public website and file it with the Commission in electronic format by means of the Commission's Electronic Data Gathering, Analysis, and Retrieval  System (EDGAR) in accordance with EDGAR rules set forth in Regulation  S-T. Subsequent to the date of filing, any material changes to the information described below must be provided on the same freely accessible public website and filed with the Commission as soon as  practicable and in any event within 4 business days after the date of the change:
 
   **(1)** Source Code. A text listing of commands to be compiled or assembled into an executable computer program used by network participants to access the network, amend the code, and confirm transactions.
 
@@ -47,19 +49,25 @@ Proposed Securities Act Rule 195 --Network Maturity Safe Harbor.
 
   **(9)** Statement of Reliance. A statement confirming that the Initial Development Team is offering or selling tokens in reliance on Rule 195, which statement of reliance must include the date of the first token sold in reliance upon the safe harbor and an attestation by a person duly authorized by the Initial Development Team that the conditions of this section are satisfied:
 
-**(d) Definition of Qualified Purchaser**. For purposes of Section 18(b)(3) of the Securities Act of 1933, a "qualified purchaser" means any person to whom Open Network Tokens are offered or sold pursuant to reliance on paragraph (a) of this  section.
+### **(d) Definition of Qualified Purchaser**. 
+For purposes of Section 18(b)(3) of the Securities Act of 1933, a "qualified purchaser" means any person to whom Open Network Tokens are offered or sold pursuant to reliance on paragraph (a) of this  section.
 
-**(e) Disqualifications.** No exemption under this section shall be available for the Open Network Tokens of any Initial Development Team if it or its individual members would be subject to disqualification under Rule  506(d).
+### **(e) Disqualifications.** 
+No exemption under this section shall be available for the Open Network Tokens of any Initial Development Team if it or its individual members would be subject to disqualification under Rule  506(d).
 
-**(f) Definitions.**
+### **(f) Definitions.**
 
-  **(1)** Open Network. An Open Network is a peer-to-peer network of free open-source software clients (which may include scripts or "smart contracts" deployed on another Open Network and having the functional role of clients) capable of validating and recording transactions of one or more tokens in accordance with consensus rules.
+  #### **(1)** Open Network. 
+  An Open Network is a peer-to-peer network of free open-source software clients (which may include scripts or "smart contracts" deployed on another Open Network and having the functional role of clients) capable of validating and recording transactions of one or more tokens in accordance with consensus rules.
 
-  **(2)** Open Network Token. An Open Network Token is the primary digital unit of account on an Open Network, transactions in which are recorded on a distributed ledger maintained by the Open Network or utilized by the Open Network and maintained by another Open Network.
+  #### **(2)** Open Network Token. 
+  An Open Network Token is the primary digital unit of account on an Open Network, transactions in which are recorded on a distributed ledger maintained by the Open Network or utilized by the Open Network and maintained by another Open Network.
 
-  **(3)** Initial Development Team. The Initial Development Team consists of the issuer (as defined in section 2(a)(4) of the Act) of the investment contract, share or other security associated with or represented by an Open Network Token, as well as each affiliate of the issuer, each person who is directly or indirectly the beneficial owner of more than 10 percent of any class of any equity security of the issuer or any affiliate of the issuer, and each director, officer or manager of the issuer or any affiliate of the issuer.
+  #### **(3)** Initial Development Team. 
+  The Initial Development Team consists of the issuer (as defined in section 2(a)(4) of the Act) of the investment contract, share or other security associated with or represented by an Open Network Token, as well as each affiliate of the issuer, each person who is directly or indirectly the beneficial owner of more than 10 percent of any class of any equity security of the issuer or any affiliate of the issuer, and each director, officer or manager of the issuer or any affiliate of the issuer.
 
-  **(4)** Network Maturity. An Open Network has achieved Network Maturity when:
+  #### **(4)** Network Maturity. 
+  An Open Network has achieved Network Maturity when:
 
   **(a)** less than 10% of Open Network Tokens are directly or indirectly owned beneficially by the Initial Network Team, individually or in the aggregate;
 
@@ -69,7 +77,7 @@ Proposed Securities Act Rule 195 --Network Maturity Safe Harbor.
 
 -----
 
-Proposed Exchange Act Rule 12g5-1(a)(7)(iii) Amendment.
+### Proposed Exchange Act Rule 12g5-1(a)(7)(iii) Amendment.
 -------------------------------------------------------
 
 (7) Other than when determining compliance with Rule 257(d)(2) of Regulation A (§ 230.257(d)(2) of this chapter), the definition of "held of record" shall not include securities issued in a Tier 2 offering pursuant to Regulation A by an issuer **(or Initial Development Team, as defined in Rule 195 under the Securities Act)  **that:
