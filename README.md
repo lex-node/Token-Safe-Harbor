@@ -1,5 +1,4 @@
 # Token-Safe-Harbor
-a safe harbor proposal for "sufficient decentralization" of open network tokens
 
 This is an evolving safe harbor proposal for determining when blockchain tokens should no longer be deemed securities under U.S. law. 
 
