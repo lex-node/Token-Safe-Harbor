@@ -2,7 +2,7 @@
 
 <h2>General Statement of Test</h2>
 <br>
-An open network system is sufficiently decentralized if that system is an open network system and control over that system is widely distributed among independent persons. 
+A network or blockchain system is sufficiently decentralized if that system is an open network system and control over that system is widely distributed among independent persons. 
 
 <h2>Open Network System</h2>
 <br>
