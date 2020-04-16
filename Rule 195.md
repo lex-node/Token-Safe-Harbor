@@ -73,10 +73,10 @@ No exemption under this section shall be available for the Open Network Tokens o
  <ol>
  
   #### **(1)** Open Network. 
-  An Open Network is a peer-to-peer network of free open-source software clients (which may include scripts or "smart contracts" deployed on another Open Network and having the functional role of clients) capable of validating and recording transactions of one or more tokens in accordance with consensus rules.
+  An Open Network is a peer-to-peer network of free open-source software clients (which may include scripts or "smart contracts" deployed on another Open Network and having the functional role of clients) which send, receive, validate and record data states on a distributed ledger in accordance with a protocol that is enforceable and verifiable by operation of the software clients.
 
   #### **(2)** Open Network Token. 
-  An Open Network Token is the primary digital unit of account on an Open Network, transactions in which are recorded on a distributed ledger maintained by the Open Network or utilized by the Open Network and maintained by another Open Network.
+  An Open Network Token is the primary digital unit of account on an Open Network.
 
   #### **(3)** Initial Development Team. 
   The Initial Development Team consists of the issuer (as defined in section 2(a)(4) of the Act) of the investment contract, share or other security associated with or represented by an Open Network Token, as well as each affiliate of the issuer, each person who is directly or indirectly the beneficial owner of more than 10 percent of any class of any equity security of the issuer or any affiliate of the issuer, and each director, officer or manager of the issuer or any affiliate of the issuer.
@@ -85,11 +85,13 @@ No exemption under this section shall be available for the Open Network Tokens o
   An Open Network has achieved Network Maturity when:
  <ol>
  
-  **(a)** less than 10% of Open Network Tokens are directly or indirectly owned beneficially by the Initial Development Team, individually or in the aggregate;
+  **(a)** less than 10% of Open Network Tokens are directly or indirectly owned beneficially by the Initial Development Team or any other person or group of affiliated persons, individually or in the aggreagte;
 
-  **(b)** less than 10% of the means of determining consensus in accordance with the consensus rules on the Open Network are directly or indirectly owned beneficially by the Initial Development Team, individually or in the aggregate; and
+  **(b)** less than 10% of the means of determining consensus in accordance with the consensus rules on the Open Network are directly or indirectly owned beneficially by the Initial Development Team or any other person or group of affiliated persons, individually or in the aggregate; 
+  
+  **(c)** there is substantial funding independent of the Initial Development Team available for research, development and maintenance of the protocol for the Open Network and one or more software clients implementing the protocol, and the research, development and maintenance or the protocol and software clients is not directly or indirectly controlled by the Initial Development Team or any other person or group of afffiliated persons; 
 
-  **(c)** the development covenants undertaken by the Initial Development Team as disclosed in the Disclosure Statement have been performed in all material respects (except to the extent such performance has been waived or modified pursuant to the governance process disclosed in the Disclosure Statement).
+  **(d)** the development covenants undertaken by the Initial Development Team as disclosed in the Disclosure Statement have been performed in all material respects (except to the extent such performance has been waived or modified pursuant to the governance process disclosed in the Disclosure Statement).
  </ol>
  </ol>
  
