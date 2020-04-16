@@ -89,7 +89,7 @@ No exemption under this section shall be available for the Open Network Tokens o
 
   **(b)** less than 10% of the means of determining consensus in accordance with the consensus rules on the Open Network are directly or indirectly owned beneficially by the Initial Development Team or any other person or group of affiliated persons, individually or in the aggregate; 
   
-  **(c)** there is substantial funding independent of the Initial Development Team available for research, development and maintenance of the Open Network protocol and software client(s), and such research, development and maintenance is not directly or indirectly controlled by the Initial Development Team or any other person or group of afffiliated persons; 
+  **(c)** there is substantial funding independent of the Initial Development Team available for research, development and maintenance of the Open Network protocol and software client(s), and such research, development and maintenance is not directly or indirectly controlled by the Initial Development Team or any other person or group of afffiliated persons; and
 
   **(d)** the development covenants undertaken by the Initial Development Team as disclosed in the Disclosure Statement have been performed in all material respects (except to the extent such performance has been waived or modified pursuant to the governance process disclosed in the Disclosure Statement).
  </ol>
