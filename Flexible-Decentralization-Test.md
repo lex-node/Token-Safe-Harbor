@@ -26,5 +26,5 @@ In general, sufficient decentralization will be found if, in light of all facts 
 <br>
 <li>There is a rebuttable presumption that a person or group of affiliated persons owning or controlling enough of the means of block production to violate the 'honest majority' assumption applicable to the open network system has or have control over the consensus of the open network system.</li>
 <br>
-<li>There is a rebuttable presumption that a person or group of affiliated persons controlling a software client used by more than 50% of the nodes on the network has or have over the protocol/client of the open network system.</li>
+<li>There is a rebuttable presumption that a person or group of affiliated persons controlling a software client used by more than 50% of the nodes on the network has or have control over the protocol/client of the open network system.</li>
 </ol>
