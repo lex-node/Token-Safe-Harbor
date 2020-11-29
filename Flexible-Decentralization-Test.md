@@ -21,10 +21,11 @@ In general, sufficient decentralization will be found if, in light of all facts 
 <br>
 <br>
 <ol>
-<li>no single person or group of affiliated persons (a “group”) controls any material component of the Open Network System; material components include the consensus component, economic component, software protocol/client component and user component; or</li>
+<li>no single person or group of affiliated persons (a “group”) controls any material component of the Open Network System; or</li>
 <br>
 <li>if clause “(1)” is not satisfied — i.e., if a person or group does control one or more material components of the Open Network System (but less than all of the material components)— control over the other material components is widely distributed among un-affiliated persons in a manner that substantially limits the controlling person’s or group’s power to interfere with or alter the Open Network System to directly or indirectly achieve a material benefit for the controlling person or group in a manner that would adversely affect third parties’ rights, powers, privileges, property interests or uses relating to the Open Network System.</li>
 </ol>
+'Material components' of an Open Network System include, without limitation, the consensus component, economic component, software protocol/client component and user component of the Open Network System. 
 <br>
 <h2>Rebuttable Presumptions to be Used in Applying the Test</h2>
 <br>
